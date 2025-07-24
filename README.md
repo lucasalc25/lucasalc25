@@ -7,7 +7,7 @@
 </p>
 
 ### 🚀 Habilidades
-- **Linguagens:** JavaScript, TypeScript, HTML, CSS
+- **Linguagens:** JavaScript, TypeScript, HTML, CSS, Python
 - **Frameworks:** React.js, Next.js, Node.js
 - **Estilo:** Tailwind CSS, Sass
 - **Outros:** APIs REST, Git, GitHub, Vercel
@@ -28,7 +28,7 @@
   <a href="[LikedIn](https://www.linkedin.com/in/lucas-alc%C3%A2ntara-holanda-673114213/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu@email.com" target="_blank">
+  <a href="[Gmail](mailto:lucas.alc25@gmail.com)" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
