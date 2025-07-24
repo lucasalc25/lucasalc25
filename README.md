@@ -7,7 +7,7 @@
   Formando em Ciência da Computação.<br>
 </p>
 
-### 🚀 Habilidades
+## 🚀 Habilidades
 - **Linguagens:** JavaScript, TypeScript, HTML, CSS, Python
 - **Frameworks:** React.js, Next.js, Node.js
 - **Estilo:** Tailwind CSS, Sass
