@@ -9,7 +9,7 @@
 
 ## 🚀 Habilidades
 - **Linguagens:** JavaScript, TypeScript, HTML, CSS, Python
-- **Frameworks:** React.js, Next.js, Node.js
+- **Frameworks:** React.js, Next.js
 - **Estilo:** Tailwind CSS, Sass
 - **Outros:** APIs REST, Git, GitHub, Vercel
 
