@@ -3,7 +3,8 @@
 
 <p align="start">
   Um desenvolvedor front-end com foco em React, Next.js e interfaces modernas com Tailwind CSS.<br>
-  Atualmente me aperfeiçoando em TypeScript e Next.js. <br>
+  Possuo também noções em Python e Banco de Dados SQL, mais especificamente com PostgreSQL. <br>
+  Atualmente estou me aperfeiçoando em TypeScript e Next.js. <br>
   Formando em Ciência da Computação.<br>
 </p>
 
