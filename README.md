@@ -22,7 +22,7 @@
 
 ## 🌐 Portfólio
   <div align="start">
-    <a href="[Meu portfólio](https://lucas-alcantara-dev.vercel.app/)" target="_blank">
+    <a href="[Meu portfólio]https://lucas-alcantara-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
   </div>
