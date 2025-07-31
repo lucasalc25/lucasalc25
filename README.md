@@ -1,14 +1,14 @@
 <h1 align="start">Olá, sou o Lucas <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- Um desenvolvedor front-end com foco em React, Next.js e interfaces modernas com Tailwind CSS.
+- Um desenvolvedor front-end com foco em React, Next.js e Tailwind CSS.
 - Possuo conhecimento básico em Python e Banco de Dados SQL, mais especificamente no PostgreSQL.
-- Atualmente estou me aperfeiçoando em TypeScript e Next.js.
+- Atualmente estou me aperfeiçoando em TypeScript.
 - Formando em Ciência da Computação.
 
 ## 🚀 Habilidades
 - **Linguagens:** JavaScript, TypeScript, HTML, CSS, Python
-- **Frameworks:** React.js, Next.js
-- **Estilo:** Tailwind CSS, Sass
+- **Frameworks:** React.js, Next.js, Tailwind CSS
+- **Bibliotecas:** PyAutoGUI, Tkinter, Pandas, OpenCV, PyTesseract, Pynput, Numpy, OS
 - **Outros:** APIs REST, Git, GitHub, Vercel
 
 <div>
