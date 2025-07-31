@@ -2,7 +2,7 @@
 
 - Um desenvolvedor front-end com foco em React, Next.js e Tailwind CSS.
 - Possuo conhecimento básico em Python e Banco de Dados SQL, mais especificamente no PostgreSQL.
-- Atualmente estou me aperfeiçoando em TypeScript.
+- Atualmente estou me aperfeiçoando em TypeScript e SCSS.
 - Formando em Ciência da Computação.
 
 ## 🚀 Habilidades
