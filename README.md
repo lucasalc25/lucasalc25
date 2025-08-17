@@ -1,7 +1,7 @@
 <h1 align="start">Olá, sou o Lucas <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - Um desenvolvedor front-end com foco em React, Next.js e Tailwind CSS.
-- Possuo conhecimento básico em Python e Banco de Dados SQL, mais especificamente no PostgreSQL.
+- Possuo conhecimento intermediário em Python e básico em Banco de Dados SQL, com PostgreSQL.
 - Atualmente estou me aperfeiçoando em TypeScript e SCSS.
 - Formando em Ciência da Computação.
 
