@@ -1,7 +1,7 @@
 <h1 align="start">Olá, sou o Lucas <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - Estudante de Ciência da Computação.
-- Desenvolvedor front-end em formação, com projetos pessoais em HTML, CSS, JS, Tailwind, React, Next.js e Consumo de APIs.
+- Desenvolvedor front-end com foco em Typescript, React, Next e Tailwind. 
 - Também possuo conhecimento intermediário em Python e básico em Banco de Dados SQL (Postgres e SQLite).
 - Atualmente estou me aperfeiçoando em TypeScript e Deploy.
 
