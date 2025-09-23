@@ -1,15 +1,15 @@
 <h1 align="start">Olá, sou o Lucas <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- Um desenvolvedor front-end com foco em React, Next.js e Tailwind CSS.
-- Possuo conhecimento intermediário em Python e básico em Banco de Dados SQL, com PostgreSQL.
-- Atualmente estou me aperfeiçoando em TypeScript e SCSS.
-- Formando em Ciência da Computação.
+- Estudante de Ciência da Computação.
+- Desenvolvedor front-end em formação, com projetos pessoais em HTML, CSS, JS, Tailwind, React, Next.js e Consumo de APIs.
+- Também possuo conhecimento intermediário em Python e básico em Banco de Dados SQL (Postgres e SQLite).
+- Atualmente estou me aperfeiçoando em TypeScript e Deploy.
 
 ## 🚀 Habilidades
-- **Linguagens:** JavaScript, TypeScript, HTML, CSS, Python
-- **Frameworks:** React.js, Next.js, Tailwind CSS
-- **Bibliotecas:** PyAutoGUI, Tkinter, Pandas, OpenCV, PyTesseract, Pynput, Numpy, OS
-- **Outros:** APIs REST, Git, GitHub, Vercel
+- **Linguagens:** JavaScript, HTML, CSS, Python
+- **Frameworks/Supersets:** TypeScript, React.js, Next.js, Tailwind CSS
+- **Bibliotecas:** PyAutoGUI, Tkinter, Pandas, OpenCV, Flask, SQLAlchemy, etc.
+- **Outros:** Postgres, SQLite, Consumo de APIs, Git, GitHub, Vercel, Railway, Render
 
 <div>
   <a href="https://github.com/lucasalc25">
