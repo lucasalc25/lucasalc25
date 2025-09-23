@@ -3,7 +3,7 @@
 - Estudante de Ciência da Computação.
 - Desenvolvedor front-end com foco em Typescript, React, Next e Tailwind. 
 - Também possuo conhecimento intermediário em Python e básico em Banco de Dados SQL (Postgres e SQLite).
-- Atualmente estou desenvolvendo projetos para colocar meus estudos em prática.
+- Atualmente, desenvolvo projetos para colocar meus estudos em prática e iniciei também meus estudos em metodologias ágeis.
 
 ## 🚀 Habilidades
 - **Linguagens:** JavaScript, HTML, CSS, Python
