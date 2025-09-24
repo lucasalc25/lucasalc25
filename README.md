@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=2000&color=8234e9&center=true&width=1012&lines=Ol%C3%A1%2C;Me+chamo+Lucas+Alc%C3%A2ntara!;Sou+desenvolvedor+Front-End!;Seja+Bem-Vindo+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - Estudante de Ciência da Computação e Desenvolvimento Fron-End com foco em React, Tailwind e Next.js.
-- Atualmente, desenvolvo projetos pessoais para praticar consumo de API's, Typecript e Deploy, e iniciei também meus estudos em metodologias ágeis.
+- Atualmente, desenvolvo projetos pessoais para praticar conhecimento de tecnologias modernas e um design system como TCC.
 
 ## 🧰 Stacks e Ferramentas
 
