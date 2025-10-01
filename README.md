@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,100:8234e9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=2000&color=8234e9&center=true&width=1012&lines=Ol%C3%A1%2C;Me+chamo+Lucas+Alc%C3%A2ntara!;Sou+desenvolvedor+Front-End!;Seja+Bem-Vindo+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=2000&color=8234e9&center=true&width=1012&lines=Ol%C3%A1%2C;Me+chamo+Lucas+Alc%C3%A2ntara!;Sou+desenvolvedor+Web!;Seja+Bem-Vindo+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - Estudante de Ciência da Computação e Desenvolvimento Web com foco em React, Tailwind, Next.js, Python e PostgreSQL.
 - Atualmente, desenvolvo projetos pessoais para praticar conhecimento de tecnologias modernas e um design system como TCC.
