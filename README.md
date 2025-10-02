@@ -5,6 +5,10 @@
 - Estudante de Ciência da Computação e Desenvolvimento Web com foco em React, Tailwind, Next.js, Python e PostgreSQL.
 - Atualmente, desenvolvo projetos pessoais para praticar conhecimento de tecnologias modernas e um design system como TCC.
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Lucas-Alcantara&style=for-the-badge"/>
+</p>
+
 ## 🧰 Stacks e Ferramentas
 
 ### Linguagens e Frameworks
